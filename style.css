@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  padding: 20px;
+  display: flex;
+}
+
+a {
+  color: black;
+  padding: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+/* Content */
+main {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+/* Page 1 */
+#page1 {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  background-color: antiquewhite;
+}
+.aaaa {
+  font-size: 60pt;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.aaab {
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+button {
+  background-color: green;
+  width: 50%;
+  height: 50px;
+  border-radius: 10px;
+}
+
+/* Page 2 */
+#page2 {
+  padding: 75px;
+  height: 520px;
+  font-family: "Times New Roman", Times, serif;
+  justify-content: center;
+  background-color: aliceblue;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 32pt;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px black;
+  color: brown;
+}
+
+article {
+  font-size: 18pt;
+  margin: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-indent: 50px;
+  text-align: justify;
+}
+
+.aaac {
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.aaad {
+  text-align: center;
+}
+
+/* Page 3 */
+#page3 {
+  padding: 75px;
+  background-color: aquamarine;
+  font-family: "Times New Roman", Times, serif;
+  height: 520px;
+}
+
+.aaae {
+  margin: 75px;
+  width: 64%;
+  display: flex;
+}
+
+.aaae div {
+  padding: 30px;
+  width: 300px;
+  justify-content: center;
+}
+
+.aaae p {
+  margin-top: 20px;
+  font-size: 14pt;
+  text-align: left;
+}
+
+#page4 {
+  padding: 50px;
+  height: 245px;
+  background-color: rgb(66, 9, 9);
+  font-family: "Times New Roman", Times, serif;
+}
+
+#page4 h2 {
+  text-align: center;
+}
+.informasi {
+  display: flex;
+  line-height: 25px;
+  margin: 0 300px;
+}
+
+.informasi div {
+  border: 1px solid black;
+  margin: 50px;
+}
+
+.aaaf p {
+  padding: 30px;
+  background-color: rgb(66, 0, 0);
+  color: white;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
